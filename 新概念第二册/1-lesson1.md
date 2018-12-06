@@ -73,11 +73,60 @@ In autumn brids fly in the sky  加入表示时间表示地点的介词短语
 In autumn little brids will fly happily in the sky
 ```
 
+## 5.单词讲解
+#### private adj 私人的，私密的
+
+do sth. in private  私下里做什么事情
+
+反义词 public 公共的
+
+privacy n. 隐私
+
+#### conversation n.谈话
+
+conversation是名词，但是有表示动作的含义，所以搭配一个动词来表示动作：
+```
+have a conversation 进行了一次谈话
+
+hold a conversation 举行了一次会谈
+
+make a conversation
+
+类似的还有 pay attention
+```
+
+#### theatre 剧场，剧院
+
+#### seat n.座位
+
+have/take a seat please.  请坐
+have/take your seat 坐在你的座位上。
+
+#### loudly adv. 大声地
+
+loud adj. 大声的
 
 
+#### angry adj. 生气
+angrily adv.
 
+The angry boy shouted angrily.
 
+#### attention n.注意
+pay attention to sb./sth.
 
+attract/catch/draw one`s attention. 吸引某人注意力
+
+May i have your attention,please? 请注意(委婉)
+
+Attention please.
+
+#### bear v. 容忍
+不规则动词
+
+bore  boren
+
+####  roudly adv.粗鲁地
 
 
 
